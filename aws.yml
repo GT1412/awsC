@@ -2,7 +2,7 @@
   vars:
     access: AKIAVVSMU3GDKAXV6W65
     secret: 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
-    region: ap-south-1c
+    region: us-west-1
   tasks:
     - ec2_vpc_net:
         name: gst-vpc
